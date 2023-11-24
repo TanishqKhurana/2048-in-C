@@ -1,6 +1,8 @@
 # 2048-in-C
-OPEN 2048.EXE FILE TO SEE THE OUTPUT ON TEMRINAL
-INTRODUCTION
+
+OPEN 2048.EXE FILE TO SEE THE OUTPUT ON TERMINAL
+
+INTRODUCTION:
 The 2048 game is a popular single-player sliding block puzzle game where players combine tiles with the same numerical value to create tiles with higher values. The game's objective is to reach the elusive 2048 tile, a challenging feat that requires strategic thinking and planning. In this project, we aim to develop a C program that simulates the 2048 game, allowing players to play and experience the game on the command line.
 
 Motivation:
